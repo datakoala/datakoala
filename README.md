@@ -1,6 +1,6 @@
 - Hi, I’m The Data Koala
-- I’m interested in using data to create advancement for marginalized communities
-- I’m currently working on an MS in Business Analytics with concentrations in Data Science and Engineering
-- I’m looking to collaborate on projects related to advocacy for marginalized communities in a variety of sectors including education, healthcare, sports, and business.
-- Currently I am the product manager for PLuG and Data at DevRev
-- I can be reached via Instagram at @thedatakoala
+- I am the product manager for PLuG and Data at DevRev
+- Interested in using data to create advancement for marginalized communities
+- Currently working on an MS in Business Analytics with concentrations in Data Science and Engineering
+- Looking to collaborate on projects related to advocacy for marginalized communities in a variety of sectors including education, healthcare, sports, and business.
+- I can be reached via Instagram at @thedatakoala for DevRev related inquiries you can ask for me through the PLuG widget on our website at devrev.ai
