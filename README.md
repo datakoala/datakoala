@@ -2,4 +2,5 @@
 - I’m interested in using data to create advancement for marginalized communities
 - I’m currently working on an MS in Business Analytics with concentrations in Data Science and Engineering
 - I’m looking to collaborate on projects related to advocacy for marginalized communities in a variety of sectors including education, healthcare, sports, and business.
+- Currently I am the product manager for PLuG and Data at DevRev
 - I can be reached via Instagram at @thedatakoala
